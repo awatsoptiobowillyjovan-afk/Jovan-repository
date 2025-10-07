@@ -1,0 +1,47 @@
+body{
+display: flex;
+justify-content: center;
+
+   display: flex; 
+    gap: 5px;
+form{
+    display: flex;
+    gap: 5px;
+    margin-bottom: 30px;
+}
+.bloc1{
+    margin: 100px;
+    border-radius: 10pk;
+    background-color: aqua;
+    padding: 10px;
+}
+.bloc3{
+    form{
+        
+        width: 100%;
+    }
+
+}
+.Query{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    div{
+        border: 1px solid;
+        padding: 10px;
+    }
+}
+.bloc4{
+    width: 100%;
+    textarea{
+        width: 100%;
+        height: 100px;
+        resize:none ;
+    } 
+}
+button{
+    background-color:green ;
+    color: aliceblue;
+    width: 100%;
+}
+}
